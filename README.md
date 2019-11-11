@@ -1,4 +1,4 @@
-# euclid-algorithm-proof
+# formalized Euclid Algorithm proof
 Using the Coq library Z to prove the Euclid GCD Algorithm.
 
 The following codes are the algorithm's implementation in C++.
